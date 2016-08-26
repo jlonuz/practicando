@@ -17,10 +17,10 @@ body 	{
 }
 
 .centro 	{
-	font-family: Verdana;
+	font-family: 'Amatic SC', cursive;
 	text-align: center;
 	position:relative;
-	top:20px;
-	right:50px;
+	top:25px;
+	right:30px;
 	letter-spacing: 5px;
 }
